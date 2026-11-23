@@ -1,0 +1,15 @@
+{
+  "name": "Prontocon",
+  "short_name": "Prontocon",
+  "description": "Controle de obras Prontocon: RDO, FDE, ferramentas e veículos.",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3d3d3d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
